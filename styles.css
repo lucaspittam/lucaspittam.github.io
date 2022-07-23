@@ -4865,15 +4865,17 @@ textarea.form-control-lg {
   border-bottom-right-radius: 0.2rem;
 }
 .work {
-  padding: 30px 0;
+  padding: 50px 0 30px 0;
   display: flex;
   justify-content: space-between;
   background-color: var(--primary);
+  align-items: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 5rem;
+  max-width: 75rem;
 }
 
-.work h2 {
-  color: var(--secondary);
-}
 
 .grid{
   width: 80%;
