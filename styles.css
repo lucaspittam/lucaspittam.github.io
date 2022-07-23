@@ -4910,7 +4910,7 @@ textarea.form-control-lg {
 .run-buddy {
   grid-column: 1/3;
   grid-row: span 2;
-  background-image: url("../assets/run-buddy-pic.jpg");
+  background-image: url("/assets/img/hero-bg.jpeg");
 }
 
 .two{
@@ -4923,13 +4923,6 @@ textarea.form-control-lg {
   background-position: 60% 50%;
 }
 
-.four {
-  background-image: url("../assets/inprogress.jpg");
-}
-
-.five {
-  background-image: url("../assets/inprogress.jpg");
-}
 
 .projectl {
   background-color: lightgray;;
